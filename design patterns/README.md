@@ -49,16 +49,6 @@ The Factory Method Pattern is a creational design pattern that defines an interf
 
 
 
-## How to Use This Repository
-- Explore the code examples provided for each pattern to understand their implementation.
-- Refer to the explanations and use cases to identify scenarios where these patterns can be applied in your projects.
-
-
-## Contributing
-If you have suggestions, improvements, or additional examples, feel free to open an issue or submit a pull request. Contributions are welcome!
-
-
-
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
